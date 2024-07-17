@@ -1,1 +1,24 @@
-hello world
+matplotlib
+opencv-python
+scipy
+pandas
+scikit-learn
+easydict
+progress
+numba
+Cython
+seaborn
+sklearn
+tqdm
+pyquaternion
+pillow
+cachetools
+prettytable
+tabulate
+plotly
+shapely
+json_tricks
+transforms3d
+shapely
+loguru
+utm
