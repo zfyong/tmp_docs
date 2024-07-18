@@ -1,24 +1,26 @@
-matplotlib
-opencv-python
-scipy
-pandas
-scikit-learn
-easydict
-progress
-numba
-Cython
-seaborn
-sklearn
-tqdm
-pyquaternion
-pillow
-cachetools
-prettytable
-tabulate
-plotly
-shapely
-json_tricks
-transforms3d
-shapely
-loguru
-utm
+{
+	"HEADER": {
+		"prefix": "header",
+		"body": [
+			"#!/usr/bin/env python",
+			"# -*- encoding: utf-8 -*-",
+			"'''",
+			"@File    :   $TM_FILENAME",
+			"@Time    :   $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"@Author  :   村长",
+			"@Version :   1.0",
+			"@Contact :   faith01238@hotmail.com",
+			"@Homepage : https://liumou.site'",
+			"@Desc    :   当前文件作用",
+			"'''",
+			"",
+			"",
+			"$0"
+		],
+	}
+}
+————————————————
+
+                            坐公交也用券
+                        
+原文链接：https://blog.csdn.net/qq_36154886/article/details/123861801
